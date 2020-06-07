@@ -1,5 +1,6 @@
 {
   "name": "ckeditor-products",
+  "description": "Using a React component in a block widget",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
