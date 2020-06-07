@@ -1,6 +1,6 @@
 # CKEditor5 React
 
-## Using a React component in a block widget
+Using a React component in a block widget
 
 <img src="screenshot.png">
 
