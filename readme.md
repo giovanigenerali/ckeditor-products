@@ -2,6 +2,8 @@
 
 ## Using a React component in a block widget
 
+<img src="screenshot.png">
+
 ---
 
 ### Reference
